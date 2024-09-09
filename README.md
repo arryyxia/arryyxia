@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **qrcode attendance**
 
-- 🌱 I’m currently learning **vue**
+- 🌱 I’m currently learning **vue, laravel, and psql**
 
 - 👯 I’m looking to collaborate on **anything**
 
