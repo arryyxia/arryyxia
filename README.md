@@ -15,18 +15,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 I am a Full Stack Developer with 2+ Years.
 
-```
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
-```
-
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arryyxia&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=894" alt="GitHub Streak" /></a>
