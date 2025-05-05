@@ -62,8 +62,6 @@ All of my projects are released as open-source on GitHub, this includes some of 
                  /___/                /___/       
 ```
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arryyxia&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=894" alt="GitHub Streak" /></a>
-
 During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to DuckDuckGo, I was appointed as a maintainer and community leader with write access to all of DuckDuckGo's repositories. I have also made contributions to a variety of other open-source projects and organizations, including Mozilla, Angular, Svelte, Node.JS etc
   
 I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
@@ -328,3 +326,6 @@ hjDs
 </details>
 
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arryyxia&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=894" alt="GitHub Streak" /></a>
+
