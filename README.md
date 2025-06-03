@@ -1,6 +1,6 @@
 ### Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
-Welcome to my GitHub! This is where I open-source my experiments and sometimes... break things 🤣
+Welcome to my GitHub! This is where I share my projects
 
 ---
 
