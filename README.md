@@ -1,21 +1,41 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
+### Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning React, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Vue/React
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+Welcome to my GitHub! This is where I open-source my experiments and sometimes... break things 🤣
 
-🔗 &nbsp;**Connect with me**
+---
+
+- 🔭 I’m currently working on something cool 😉  
+- 🌱 I’m currently learning **React** and **Go**  
+- 💬 Ask me anything about **JavaScript**, **TypeScript**, **Python**, **Vue**, or **React**  
+- ⚡ Fun fact: I ❤️ cats and **Xbox Gaming** 🎮 (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+
+---
+
+### 🔗 Connect with me
+
 <p align="left">
-<a href="https://linkedin.com/in/muhmahatma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://instagram.com/mht.aryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/muhmahatma" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mht.aryn" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
-### ✨&nbsp; About Me
+---
 
-I am a Full Stack Developer with 2+ Years.
+### ✨ About Me
 
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+I’m a **Full Stack Developer** with **2+ years** of experience building scalable web applications and fun side projects.
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arryyxia&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=894" alt="GitHub Streak" /></a>
+<!-- Optional: Add more info like tech stack, certifications, etc. -->
 
+---
+
+<!-- GitHub Profile Stats -->
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arryyxia&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=894" alt="GitHub Streak" />
+</a>
+
+<!-- Optional counter, currently width=0, so it's hidden -->
+<!-- <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'> -->
