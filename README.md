@@ -7,7 +7,6 @@ Welcome to my GitHub! This is where I share my projects
 - 🔭 I’m currently working on something cool 😉  
 - 🌱 I’m currently learning **React** and **Go**  
 - 💬 Ask me anything about **JavaScript**, **TypeScript**, **Python**, **Vue**, or **React**  
-- ⚡ Fun fact: I ❤️ cats and **Xbox Gaming** 🎮 (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
 ---
 
