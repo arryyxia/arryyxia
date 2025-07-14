@@ -1,40 +1,90 @@
-### Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+<h1 align="center">Hi 👋, I'm Muh. Mahatma Arrayyan</h1>
+<h3 align="center">Full Stack Developer | Tech Enthusiast | UI/UX Hobbyist</h3>
 
-Welcome to my GitHub! This is where I share my projects
-
----
-
-- 🔭 I’m currently working on something cool 😉  
-- 🌱 I’m currently learning **React** and **Go**  
-- 💬 Ask me anything about **JavaScript**, **TypeScript**, **Python**, **Vue**, or **React**  
-
----
-
-### 🔗 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/muhmahatma" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mht.aryn" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arryyxia&label=Profile%20views&color=0e75b6&style=flat" alt="arryyxia" />
 </p>
 
 ---
 
-### ✨ About Me
+## 💫 About Me:
+🚀 I'm a passionate full stack developer experienced in building dynamic, secure, and scalable web applications using **Laravel**, **Vue.js**, and **Livewire**. Currently studying **Data Science** at Universitas Terbuka and working as a developer at **PT. Celebes Solusi Digital**.
 
-I’m a **Full Stack Developer** with **2+ years** of experience building scalable web applications and fun side projects.
+🎯 I love turning ideas into real products, exploring modern tech, and mentoring other aspiring developers at events like **Ngoding Holiday Camp**.
 
-<!-- Optional: Add more info like tech stack, certifications, etc. -->
+📍 Based in **Makassar, Indonesia**  
+📫 Reach me at **muh.mahatma@gmail.com**  
+🔗 [My LinkedIn](https://linkedin.com/in/arryyxia) | [My GitHub](https://github.com/arryyxia)
 
 ---
 
-<!-- GitHub Profile Stats -->
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arryyxia&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=894" alt="GitHub Streak" />
-</a>
+## 🛠️ Tech Stack
 
-<!-- Optional counter, currently width=0, so it's hidden -->
-<!-- <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'> -->
+### Frontend
+- HTML5, CSS3
+- Tailwind CSS, Bootstrap
+- JavaScript, Vue.js, React.js
+- WordPress (for landing page & CMS)
+
+### Backend
+- PHP (Laravel, CodeIgniter 4)
+- REST API development
+- Node.js (exploring...)
+
+### Database
+- MySQL, PostgreSQL
+
+### Tools & Others
+- Git & GitHub
+- Figma (UI/UX Design)
+- Livewire (Laravel Component Framework)
+
+---
+
+## 🧩 Fun Stuff
+
+### 🕹️ Mini Web Games I've Made (or Planning To)
+| Game | Stack | Status |
+|------|-------|--------|
+| 🎮 Rock Paper Scissors | Vue.js + Tailwind | ✅ Completed |
+| 🎯 Quiz App | Vue.js + Firebase | ⏳ Planning |
+
+> *Psst! You can check out my projects in the pinned repositories below 👇*
+
+---
+
+## 🏆 Achievements & Certifications
+- 🥇 1st Place – IoT Development Competition, Kalla Institute  
+- 🥈 2nd Place – Web Design, Politeknik Negeri Ujung Pandang  
+- 📜 Web Development Certificate – Digitalent LSP  
+- 🧠 TOEIC Score: 790  
+- 🖥️ Networking Essentials – Cisco
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arryyxia&show_icons=true&theme=radical" alt="arryyxia" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arryyxia&layout=compact&theme=radical" alt="arryyxia" />
+</p>
+
+---
+
+## 🎯 Currently Learning
+- 🧠 Data Structures & Algorithms
+- 📊 Data Science (Bachelor's Program)
+- ⚛️ Deeper dive into React.js
+- 📱 Mobile App UI with Figma
+
+---
+
+## 🎉 Let’s Collaborate!
+
+I'm always excited to work on fun or meaningful projects — especially those involving **education**, **health**, or **automation**. Let’s connect!
+
+📩 Just drop an issue, pull request, or [email me](mailto:muh.mahatma@gmail.com)!
+
+---
+
