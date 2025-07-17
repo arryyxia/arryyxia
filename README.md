@@ -14,7 +14,7 @@
 
 📍 Based in **Makassar, Indonesia**  
 📫 Reach me at **muh.mahatma@gmail.com**  
-🔗 [My LinkedIn](https://linkedin.com/in/arryyxia) | [My GitHub](https://github.com/arryyxia)
+🔗 [My LinkedIn](https://linkedin.com/in/muhmahatma) | [My GitHub](https://github.com/arryyxia)
 
 ---
 
